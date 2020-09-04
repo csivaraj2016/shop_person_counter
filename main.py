@@ -250,7 +250,7 @@ while True:
 					to.counted = True
 					
 
-
+#######################################################################################
 					def animate(i):
 					    
 					    x1=time.time()
@@ -272,7 +272,7 @@ while True:
 					
 					plt.show()
 
-
+################################################################################
 
 				# if the direction is positive (indicating the object
 				# is moving down) AND the centroid is below the
@@ -282,7 +282,7 @@ while True:
 					to.counted = True
 					
 
-
+##############################################################################
 					def animate(i):
 					    
 					    x2=time.time()
@@ -305,7 +305,7 @@ while True:
 					plt.show()
 					
 
-					
+#######################################################################################					
 
 
 		# store the trackable object in our dictionary
